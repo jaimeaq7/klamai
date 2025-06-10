@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Scale } from 'lucide-react';
 
+
 const Header: React.FC = () => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);

@@ -15,14 +15,14 @@ const WhatsAppButton: React.FC = () => {
         message: "¡Hola! Soy VitorIA, tu asesor legal. Cuéntame tu consulta y estaré encantado de ayudarte 👇",
         autoShowDelay: 2000,
         avatarUrl:
-          "https://minio-go488ckkg444kcgswwkoc844.autoiax.com/publico/KLAMAI/abogado.png",
+          "https://images.unsplash.com/photo-1633625576932-348e73c45e82?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       }}
       theme={{
         placement: "left",    
         button: {
           backgroundColor: "#666460",
           customIconSrc:
-            "https://minio-go488ckkg444kcgswwkoc844.autoiax.com/publico/KLAMAI/abogado.png",
+            "https://images.unsplash.com/photo-1633625576932-348e73c45e82?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             /*customCloseIconSrc: "",*/
             size: "65px",
           

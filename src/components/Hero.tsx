@@ -23,6 +23,9 @@ const Hero: React.FC = () => {
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 leading-tight">
             Defendemos tus derechos con pasión y experiencia
           </h1>
+          
+  
+  
           <p className="text-xl md:text-2xl mb-8 text-gray-200">
             En Klamai Abogados ofrecemos soluciones legales efectivas y personalizadas para proteger tus intereses.
           </p>
